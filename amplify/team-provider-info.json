@@ -1,0 +1,14 @@
+{
+    "develop": {
+        "awscloudformation": {
+            "AuthRoleName": "angularpwapostone-develop-20190531130557-authRole",
+            "UnauthRoleArn": "arn:aws:iam::374450287804:role/angularpwapostone-develop-20190531130557-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::374450287804:role/angularpwapostone-develop-20190531130557-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "angularpwapostone-develop-20190531130557-deployment",
+            "UnauthRoleName": "angularpwapostone-develop-20190531130557-unauthRole",
+            "StackName": "angularpwapostone-develop-20190531130557",
+            "StackId": "arn:aws:cloudformation:us-west-2:374450287804:stack/angularpwapostone-develop-20190531130557/bbfa8d90-8376-11e9-9566-02a5b7e2d79e"
+        }
+    }
+}
